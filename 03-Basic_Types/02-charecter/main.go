@@ -14,3 +14,9 @@ func main() {
 	//rune alias for int32
 
 }
+
+/*
+a is of type of uint8 and unicode value is 97
+♥ is of type of int32 and unicode value is 9829
+
+*/
