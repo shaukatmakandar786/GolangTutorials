@@ -2,6 +2,11 @@ package main
 
 import(
           "fmt"
+          "https://github.com/shaukatmakandar786/GolangTutorials/tree/main/07-packages/number"
+          "https://github.com/shaukatmakandar786/GolangTutorials/tree/main/07-packages/strings/greeting"
+          "https://github.com/shaukatmakandar786/GolangTutorials/tree/main/07-packages/strings"
+          //str "strings" //Package Alias
+          
           
 )
 
@@ -18,8 +23,8 @@ func main(){
   fmt.Println(greeting.WelcomeText)
   
   fmt.Println(strings.Reverse("ShaukatMakandar"))
-  
- 	fmt.Println(str.Count("Go is Awesome. I love Go", "Go"))
+    
+  //fmt.Println(str.Count("Go is Awesome. I love Go", "Go"))
 
 
   
