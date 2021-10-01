@@ -1,4 +1,4 @@
-package numbers
+package number
 
 // Checks if a number is prime or not
 func IsPrime(num int) bool {
