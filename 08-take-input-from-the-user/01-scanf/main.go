@@ -1,3 +1,4 @@
+//example to take input from the user
 package main
 
 import "fmt"
